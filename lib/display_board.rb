@@ -4,5 +4,8 @@ row_odd = "   " + "|" + "   " + "|" + "   "
 row_even = "-----------"
 puts row_odd
 puts row_even
+puts row_odd
+puts row_even
+puts row_odd
 end
 display_board
