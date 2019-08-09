@@ -2,5 +2,7 @@
 def display_board 
 row_odd = "   " + "|" + "   " + "|" + "   "
 row_even = "-----------"
-put
+puts row_odd
+puts row_even
 end
+display_board
